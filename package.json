@@ -1,1 +1,14 @@
-
+{
+  "name": "celestial-id-supreme",
+  "version": "1.0.0",
+  "description": "Celestial ID Supreme v10 God’s System Light Supreme by Shadow Void x Nyx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shadow Void x Nyx Voidwalker V3 Supreme",
+  "license": "Proprietary",
+  "dependencies": {
+    "baileys": "^4.4.0"
+  }
+}
